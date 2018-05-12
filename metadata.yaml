@@ -1,0 +1,38 @@
+_repo: Medal-of-Honor_27393
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bernklau
+    gutenberg_agent_id: '25935'
+    url: http://www.gutenberg.org/2009/agents/25935
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reynolds, Mack
+    aliases:
+    - McCord, Guy
+    - Reynolds, Dallas McCord
+    birthdate: 1917
+    deathdate: 1983
+    gutenberg_agent_id: '25744'
+    url: http://www.gutenberg.org/2009/agents/25744
+    wikipedia: http://en.wikipedia.org/wiki/Mack_Reynolds
+description: According to tradition, the man who held the Galactic Medal of Honor
+  could do no wrong. In a strange way, Captain Don Mathers was to learn that this
+  was true.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27393'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Medal of Honor
+url: http://www.gutenberg.org/ebooks/27393
