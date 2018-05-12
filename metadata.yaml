@@ -22,6 +22,8 @@ creator:
 description: According to tradition, the man who held the Galactic Medal of Honor
   could do no wrong. In a strange way, Captain Don Mathers was to learn that this
   was true.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27393#Medal-of-Honor
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-12-02'
 gutenberg_type: Text
